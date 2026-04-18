@@ -1,0 +1,7 @@
+toplam = set()
+toplam.add(10)
+toplam.add(20)
+toplam.add(30)
+print(toplam)
+toplam.remove(20)
+print(toplam)
